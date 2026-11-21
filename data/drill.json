@@ -1,0 +1,1982 @@
+{
+  "runs": [
+    {
+      "id": "R0",
+      "lot": "L1",
+      "sheet": "板0",
+      "pattern": "疏纹",
+      "process": "改压",
+      "assignment": "分样试制",
+      "on": "2026-07-01"
+    },
+    {
+      "id": "R1",
+      "lot": "L1",
+      "sheet": "板0",
+      "pattern": "疏纹",
+      "process": "标准",
+      "assignment": "分样试制",
+      "on": "2026-07-01"
+    },
+    {
+      "id": "R2",
+      "lot": "L1",
+      "sheet": "板1",
+      "pattern": "密纹",
+      "process": "改压",
+      "assignment": "分样试制",
+      "on": "2026-07-02"
+    },
+    {
+      "id": "R3",
+      "lot": "L1",
+      "sheet": "板1",
+      "pattern": "密纹",
+      "process": "标准",
+      "assignment": "分样试制",
+      "on": "2026-07-02"
+    },
+    {
+      "id": "R4",
+      "lot": "L1",
+      "sheet": "板2",
+      "pattern": "疏纹",
+      "process": "改压",
+      "assignment": "分样试制",
+      "on": "2026-07-03"
+    },
+    {
+      "id": "R5",
+      "lot": "L1",
+      "sheet": "板2",
+      "pattern": "疏纹",
+      "process": "标准",
+      "assignment": "分样试制",
+      "on": "2026-07-03"
+    },
+    {
+      "id": "R6",
+      "lot": "L1",
+      "sheet": "板3",
+      "pattern": "密纹",
+      "process": "改压",
+      "assignment": "分样试制",
+      "on": "2026-07-04"
+    },
+    {
+      "id": "R7",
+      "lot": "L1",
+      "sheet": "板3",
+      "pattern": "密纹",
+      "process": "标准",
+      "assignment": "分样试制",
+      "on": "2026-07-04"
+    },
+    {
+      "id": "R8",
+      "lot": "L2",
+      "sheet": "板4",
+      "pattern": "疏纹",
+      "process": "改压",
+      "assignment": "分样试制",
+      "on": "2026-07-05"
+    },
+    {
+      "id": "R9",
+      "lot": "L2",
+      "sheet": "板4",
+      "pattern": "疏纹",
+      "process": "标准",
+      "assignment": "分样试制",
+      "on": "2026-07-05"
+    },
+    {
+      "id": "R10",
+      "lot": "L2",
+      "sheet": "板5",
+      "pattern": "密纹",
+      "process": "改压",
+      "assignment": "分样试制",
+      "on": "2026-07-06"
+    },
+    {
+      "id": "R11",
+      "lot": "L2",
+      "sheet": "板5",
+      "pattern": "密纹",
+      "process": "标准",
+      "assignment": "分样试制",
+      "on": "2026-07-06"
+    },
+    {
+      "id": "R12",
+      "lot": "L2",
+      "sheet": "板6",
+      "pattern": "疏纹",
+      "process": "改压",
+      "assignment": "分样试制",
+      "on": "2026-07-07"
+    },
+    {
+      "id": "R13",
+      "lot": "L2",
+      "sheet": "板6",
+      "pattern": "疏纹",
+      "process": "标准",
+      "assignment": "分样试制",
+      "on": "2026-07-07"
+    },
+    {
+      "id": "R14",
+      "lot": "L2",
+      "sheet": "板7",
+      "pattern": "密纹",
+      "process": "改压",
+      "assignment": "分样试制",
+      "on": "2026-07-08"
+    },
+    {
+      "id": "R15",
+      "lot": "L2",
+      "sheet": "板7",
+      "pattern": "密纹",
+      "process": "标准",
+      "assignment": "分样试制",
+      "on": "2026-07-08"
+    },
+    {
+      "id": "R16",
+      "lot": "L3",
+      "sheet": "板8",
+      "pattern": "疏纹",
+      "process": "改压",
+      "assignment": "正常试产",
+      "on": "2026-07-09"
+    },
+    {
+      "id": "R17",
+      "lot": "L3",
+      "sheet": "板8",
+      "pattern": "疏纹",
+      "process": "改压",
+      "assignment": "正常试产",
+      "on": "2026-07-09"
+    },
+    {
+      "id": "R18",
+      "lot": "L3",
+      "sheet": "板9",
+      "pattern": "密纹",
+      "process": "改压",
+      "assignment": "正常试产",
+      "on": "2026-07-10"
+    },
+    {
+      "id": "R19",
+      "lot": "L3",
+      "sheet": "板9",
+      "pattern": "密纹",
+      "process": "改压",
+      "assignment": "正常试产",
+      "on": "2026-07-10"
+    },
+    {
+      "id": "R20",
+      "lot": "L3",
+      "sheet": "板10",
+      "pattern": "疏纹",
+      "process": "改压",
+      "assignment": "正常试产",
+      "on": "2026-07-11"
+    },
+    {
+      "id": "R21",
+      "lot": "L3",
+      "sheet": "板10",
+      "pattern": "疏纹",
+      "process": "改压",
+      "assignment": "正常试产",
+      "on": "2026-07-11"
+    },
+    {
+      "id": "R22",
+      "lot": "L3",
+      "sheet": "板11",
+      "pattern": "密纹",
+      "process": "改压",
+      "assignment": "正常试产",
+      "on": "2026-07-12"
+    },
+    {
+      "id": "R23",
+      "lot": "L3",
+      "sheet": "板11",
+      "pattern": "密纹",
+      "process": "改压",
+      "assignment": "正常试产",
+      "on": "2026-07-12"
+    }
+  ],
+  "samples": [
+    {
+      "id": "R0-0",
+      "run": "R0",
+      "reserved": true
+    },
+    {
+      "id": "R0-1",
+      "run": "R0",
+      "reserved": false
+    },
+    {
+      "id": "R0-2",
+      "run": "R0",
+      "reserved": false
+    },
+    {
+      "id": "R1-0",
+      "run": "R1",
+      "reserved": true
+    },
+    {
+      "id": "R1-1",
+      "run": "R1",
+      "reserved": false
+    },
+    {
+      "id": "R1-2",
+      "run": "R1",
+      "reserved": false
+    },
+    {
+      "id": "R2-0",
+      "run": "R2",
+      "reserved": true
+    },
+    {
+      "id": "R2-1",
+      "run": "R2",
+      "reserved": false
+    },
+    {
+      "id": "R2-2",
+      "run": "R2",
+      "reserved": false
+    },
+    {
+      "id": "R3-0",
+      "run": "R3",
+      "reserved": true
+    },
+    {
+      "id": "R3-1",
+      "run": "R3",
+      "reserved": false
+    },
+    {
+      "id": "R3-2",
+      "run": "R3",
+      "reserved": false
+    },
+    {
+      "id": "R4-0",
+      "run": "R4",
+      "reserved": true
+    },
+    {
+      "id": "R4-1",
+      "run": "R4",
+      "reserved": false
+    },
+    {
+      "id": "R4-2",
+      "run": "R4",
+      "reserved": false
+    },
+    {
+      "id": "R5-0",
+      "run": "R5",
+      "reserved": true
+    },
+    {
+      "id": "R5-1",
+      "run": "R5",
+      "reserved": false
+    },
+    {
+      "id": "R5-2",
+      "run": "R5",
+      "reserved": false
+    },
+    {
+      "id": "R6-0",
+      "run": "R6",
+      "reserved": true
+    },
+    {
+      "id": "R6-1",
+      "run": "R6",
+      "reserved": false
+    },
+    {
+      "id": "R6-2",
+      "run": "R6",
+      "reserved": false
+    },
+    {
+      "id": "R7-0",
+      "run": "R7",
+      "reserved": true
+    },
+    {
+      "id": "R7-1",
+      "run": "R7",
+      "reserved": false
+    },
+    {
+      "id": "R7-2",
+      "run": "R7",
+      "reserved": false
+    },
+    {
+      "id": "R8-0",
+      "run": "R8",
+      "reserved": true
+    },
+    {
+      "id": "R8-1",
+      "run": "R8",
+      "reserved": false
+    },
+    {
+      "id": "R8-2",
+      "run": "R8",
+      "reserved": false
+    },
+    {
+      "id": "R9-0",
+      "run": "R9",
+      "reserved": true
+    },
+    {
+      "id": "R9-1",
+      "run": "R9",
+      "reserved": false
+    },
+    {
+      "id": "R9-2",
+      "run": "R9",
+      "reserved": false
+    },
+    {
+      "id": "R10-0",
+      "run": "R10",
+      "reserved": true
+    },
+    {
+      "id": "R10-1",
+      "run": "R10",
+      "reserved": false
+    },
+    {
+      "id": "R10-2",
+      "run": "R10",
+      "reserved": false
+    },
+    {
+      "id": "R11-0",
+      "run": "R11",
+      "reserved": true
+    },
+    {
+      "id": "R11-1",
+      "run": "R11",
+      "reserved": false
+    },
+    {
+      "id": "R11-2",
+      "run": "R11",
+      "reserved": false
+    },
+    {
+      "id": "R12-0",
+      "run": "R12",
+      "reserved": true
+    },
+    {
+      "id": "R12-1",
+      "run": "R12",
+      "reserved": false
+    },
+    {
+      "id": "R12-2",
+      "run": "R12",
+      "reserved": false
+    },
+    {
+      "id": "R13-0",
+      "run": "R13",
+      "reserved": true
+    },
+    {
+      "id": "R13-1",
+      "run": "R13",
+      "reserved": false
+    },
+    {
+      "id": "R13-2",
+      "run": "R13",
+      "reserved": false
+    },
+    {
+      "id": "R14-0",
+      "run": "R14",
+      "reserved": true
+    },
+    {
+      "id": "R14-1",
+      "run": "R14",
+      "reserved": false
+    },
+    {
+      "id": "R14-2",
+      "run": "R14",
+      "reserved": false
+    },
+    {
+      "id": "R15-0",
+      "run": "R15",
+      "reserved": true
+    },
+    {
+      "id": "R15-1",
+      "run": "R15",
+      "reserved": false
+    },
+    {
+      "id": "R15-2",
+      "run": "R15",
+      "reserved": false
+    },
+    {
+      "id": "R16-0",
+      "run": "R16",
+      "reserved": true
+    },
+    {
+      "id": "R16-1",
+      "run": "R16",
+      "reserved": false
+    },
+    {
+      "id": "R16-2",
+      "run": "R16",
+      "reserved": false
+    },
+    {
+      "id": "R17-0",
+      "run": "R17",
+      "reserved": true
+    },
+    {
+      "id": "R17-1",
+      "run": "R17",
+      "reserved": false
+    },
+    {
+      "id": "R17-2",
+      "run": "R17",
+      "reserved": false
+    },
+    {
+      "id": "R18-0",
+      "run": "R18",
+      "reserved": true
+    },
+    {
+      "id": "R18-1",
+      "run": "R18",
+      "reserved": false
+    },
+    {
+      "id": "R18-2",
+      "run": "R18",
+      "reserved": false
+    },
+    {
+      "id": "R19-0",
+      "run": "R19",
+      "reserved": true
+    },
+    {
+      "id": "R19-1",
+      "run": "R19",
+      "reserved": false
+    },
+    {
+      "id": "R19-2",
+      "run": "R19",
+      "reserved": false
+    },
+    {
+      "id": "R20-0",
+      "run": "R20",
+      "reserved": true
+    },
+    {
+      "id": "R20-1",
+      "run": "R20",
+      "reserved": false
+    },
+    {
+      "id": "R20-2",
+      "run": "R20",
+      "reserved": false
+    },
+    {
+      "id": "R21-0",
+      "run": "R21",
+      "reserved": true
+    },
+    {
+      "id": "R21-1",
+      "run": "R21",
+      "reserved": false
+    },
+    {
+      "id": "R21-2",
+      "run": "R21",
+      "reserved": false
+    },
+    {
+      "id": "R22-0",
+      "run": "R22",
+      "reserved": true
+    },
+    {
+      "id": "R22-1",
+      "run": "R22",
+      "reserved": false
+    },
+    {
+      "id": "R22-2",
+      "run": "R22",
+      "reserved": false
+    },
+    {
+      "id": "R23-0",
+      "run": "R23",
+      "reserved": true
+    },
+    {
+      "id": "R23-1",
+      "run": "R23",
+      "reserved": false
+    },
+    {
+      "id": "R23-2",
+      "run": "R23",
+      "reserved": false
+    }
+  ],
+  "readings": [
+    {
+      "sample": "R0-0",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 70,
+      "process": "改压",
+      "lot": "L1"
+    },
+    {
+      "sample": "R0-0",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 71,
+      "process": "改压",
+      "lot": "L1"
+    },
+    {
+      "sample": "R0-1",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 71,
+      "process": "改压",
+      "lot": "L1"
+    },
+    {
+      "sample": "R0-1",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 72,
+      "process": "改压",
+      "lot": "L1"
+    },
+    {
+      "sample": "R0-2",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 72,
+      "process": "改压",
+      "lot": "L1"
+    },
+    {
+      "sample": "R0-2",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 73,
+      "process": "改压",
+      "lot": "L1"
+    },
+    {
+      "sample": "R1-0",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 71,
+      "process": "标准",
+      "lot": "L1"
+    },
+    {
+      "sample": "R1-0",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 72,
+      "process": "标准",
+      "lot": "L1"
+    },
+    {
+      "sample": "R1-1",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 72,
+      "process": "标准",
+      "lot": "L1"
+    },
+    {
+      "sample": "R1-1",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 73,
+      "process": "标准",
+      "lot": "L1"
+    },
+    {
+      "sample": "R1-2",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 73,
+      "process": "标准",
+      "lot": "L1"
+    },
+    {
+      "sample": "R1-2",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 74,
+      "process": "标准",
+      "lot": "L1"
+    },
+    {
+      "sample": "R2-0",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 72,
+      "process": "改压",
+      "lot": "L1"
+    },
+    {
+      "sample": "R2-0",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 73,
+      "process": "改压",
+      "lot": "L1"
+    },
+    {
+      "sample": "R2-1",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 73,
+      "process": "改压",
+      "lot": "L1"
+    },
+    {
+      "sample": "R2-1",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 74,
+      "process": "改压",
+      "lot": "L1"
+    },
+    {
+      "sample": "R2-2",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 74,
+      "process": "改压",
+      "lot": "L1"
+    },
+    {
+      "sample": "R2-2",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 75,
+      "process": "改压",
+      "lot": "L1"
+    },
+    {
+      "sample": "R3-0",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 73,
+      "process": "标准",
+      "lot": "L1"
+    },
+    {
+      "sample": "R3-0",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 74,
+      "process": "标准",
+      "lot": "L1"
+    },
+    {
+      "sample": "R3-1",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 74,
+      "process": "标准",
+      "lot": "L1"
+    },
+    {
+      "sample": "R3-1",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 75,
+      "process": "标准",
+      "lot": "L1"
+    },
+    {
+      "sample": "R3-2",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 75,
+      "process": "标准",
+      "lot": "L1"
+    },
+    {
+      "sample": "R3-2",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 76,
+      "process": "标准",
+      "lot": "L1"
+    },
+    {
+      "sample": "R4-0",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 74,
+      "process": "改压",
+      "lot": "L1"
+    },
+    {
+      "sample": "R4-0",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 75,
+      "process": "改压",
+      "lot": "L1"
+    },
+    {
+      "sample": "R4-1",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 75,
+      "process": "改压",
+      "lot": "L1"
+    },
+    {
+      "sample": "R4-1",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 76,
+      "process": "改压",
+      "lot": "L1"
+    },
+    {
+      "sample": "R4-2",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 76,
+      "process": "改压",
+      "lot": "L1"
+    },
+    {
+      "sample": "R4-2",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 77,
+      "process": "改压",
+      "lot": "L1"
+    },
+    {
+      "sample": "R5-0",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 75,
+      "process": "标准",
+      "lot": "L1"
+    },
+    {
+      "sample": "R5-0",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 76,
+      "process": "标准",
+      "lot": "L1"
+    },
+    {
+      "sample": "R5-1",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 76,
+      "process": "标准",
+      "lot": "L1"
+    },
+    {
+      "sample": "R5-1",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 77,
+      "process": "标准",
+      "lot": "L1"
+    },
+    {
+      "sample": "R5-2",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 77,
+      "process": "标准",
+      "lot": "L1"
+    },
+    {
+      "sample": "R5-2",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 78,
+      "process": "标准",
+      "lot": "L1"
+    },
+    {
+      "sample": "R6-0",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 76,
+      "process": "改压",
+      "lot": "L1"
+    },
+    {
+      "sample": "R6-0",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 77,
+      "process": "改压",
+      "lot": "L1"
+    },
+    {
+      "sample": "R6-1",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 77,
+      "process": "改压",
+      "lot": "L1"
+    },
+    {
+      "sample": "R6-1",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 78,
+      "process": "改压",
+      "lot": "L1"
+    },
+    {
+      "sample": "R6-2",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 78,
+      "process": "改压",
+      "lot": "L1"
+    },
+    {
+      "sample": "R6-2",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 79,
+      "process": "改压",
+      "lot": "L1"
+    },
+    {
+      "sample": "R7-0",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 77,
+      "process": "标准",
+      "lot": "L1"
+    },
+    {
+      "sample": "R7-0",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 78,
+      "process": "标准",
+      "lot": "L1"
+    },
+    {
+      "sample": "R7-1",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 78,
+      "process": "标准",
+      "lot": "L1"
+    },
+    {
+      "sample": "R7-1",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 79,
+      "process": "标准",
+      "lot": "L1"
+    },
+    {
+      "sample": "R7-2",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 79,
+      "process": "标准",
+      "lot": "L1"
+    },
+    {
+      "sample": "R7-2",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 80,
+      "process": "标准",
+      "lot": "L1"
+    },
+    {
+      "sample": "R8-0",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 78,
+      "process": "改压",
+      "lot": "L2"
+    },
+    {
+      "sample": "R8-0",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 79,
+      "process": "改压",
+      "lot": "L2"
+    },
+    {
+      "sample": "R8-1",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 79,
+      "process": "改压",
+      "lot": "L2"
+    },
+    {
+      "sample": "R8-1",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 80,
+      "process": "改压",
+      "lot": "L2"
+    },
+    {
+      "sample": "R8-2",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 80,
+      "process": "改压",
+      "lot": "L2"
+    },
+    {
+      "sample": "R8-2",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 81,
+      "process": "改压",
+      "lot": "L2"
+    },
+    {
+      "sample": "R9-0",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 79,
+      "process": "标准",
+      "lot": "L2"
+    },
+    {
+      "sample": "R9-0",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 80,
+      "process": "标准",
+      "lot": "L2"
+    },
+    {
+      "sample": "R9-1",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 80,
+      "process": "标准",
+      "lot": "L2"
+    },
+    {
+      "sample": "R9-1",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 81,
+      "process": "标准",
+      "lot": "L2"
+    },
+    {
+      "sample": "R9-2",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 81,
+      "process": "标准",
+      "lot": "L2"
+    },
+    {
+      "sample": "R9-2",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 82,
+      "process": "标准",
+      "lot": "L2"
+    },
+    {
+      "sample": "R10-0",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 80,
+      "process": "改压",
+      "lot": "L2"
+    },
+    {
+      "sample": "R10-0",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 81,
+      "process": "改压",
+      "lot": "L2"
+    },
+    {
+      "sample": "R10-1",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 81,
+      "process": "改压",
+      "lot": "L2"
+    },
+    {
+      "sample": "R10-1",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 82,
+      "process": "改压",
+      "lot": "L2"
+    },
+    {
+      "sample": "R10-2",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 82,
+      "process": "改压",
+      "lot": "L2"
+    },
+    {
+      "sample": "R10-2",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 83,
+      "process": "改压",
+      "lot": "L2"
+    },
+    {
+      "sample": "R11-0",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 81,
+      "process": "标准",
+      "lot": "L2"
+    },
+    {
+      "sample": "R11-0",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 82,
+      "process": "标准",
+      "lot": "L2"
+    },
+    {
+      "sample": "R11-1",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 82,
+      "process": "标准",
+      "lot": "L2"
+    },
+    {
+      "sample": "R11-1",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 83,
+      "process": "标准",
+      "lot": "L2"
+    },
+    {
+      "sample": "R11-2",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 83,
+      "process": "标准",
+      "lot": "L2"
+    },
+    {
+      "sample": "R11-2",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 84,
+      "process": "标准",
+      "lot": "L2"
+    },
+    {
+      "sample": "R12-0",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 82,
+      "process": "改压",
+      "lot": "L2"
+    },
+    {
+      "sample": "R12-0",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 83,
+      "process": "改压",
+      "lot": "L2"
+    },
+    {
+      "sample": "R12-1",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 83,
+      "process": "改压",
+      "lot": "L2"
+    },
+    {
+      "sample": "R12-1",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 84,
+      "process": "改压",
+      "lot": "L2"
+    },
+    {
+      "sample": "R12-2",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 84,
+      "process": "改压",
+      "lot": "L2"
+    },
+    {
+      "sample": "R12-2",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 85,
+      "process": "改压",
+      "lot": "L2"
+    },
+    {
+      "sample": "R13-0",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 83,
+      "process": "标准",
+      "lot": "L2"
+    },
+    {
+      "sample": "R13-0",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 84,
+      "process": "标准",
+      "lot": "L2"
+    },
+    {
+      "sample": "R13-1",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 84,
+      "process": "标准",
+      "lot": "L2"
+    },
+    {
+      "sample": "R13-1",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 85,
+      "process": "标准",
+      "lot": "L2"
+    },
+    {
+      "sample": "R13-2",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 85,
+      "process": "标准",
+      "lot": "L2"
+    },
+    {
+      "sample": "R13-2",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 86,
+      "process": "标准",
+      "lot": "L2"
+    },
+    {
+      "sample": "R14-0",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 84,
+      "process": "改压",
+      "lot": "L2"
+    },
+    {
+      "sample": "R14-0",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 85,
+      "process": "改压",
+      "lot": "L2"
+    },
+    {
+      "sample": "R14-1",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 85,
+      "process": "改压",
+      "lot": "L2"
+    },
+    {
+      "sample": "R14-1",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 86,
+      "process": "改压",
+      "lot": "L2"
+    },
+    {
+      "sample": "R14-2",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 86,
+      "process": "改压",
+      "lot": "L2"
+    },
+    {
+      "sample": "R14-2",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 87,
+      "process": "改压",
+      "lot": "L2"
+    },
+    {
+      "sample": "R15-0",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 85,
+      "process": "标准",
+      "lot": "L2"
+    },
+    {
+      "sample": "R15-0",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 86,
+      "process": "标准",
+      "lot": "L2"
+    },
+    {
+      "sample": "R15-1",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 86,
+      "process": "标准",
+      "lot": "L2"
+    },
+    {
+      "sample": "R15-1",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 87,
+      "process": "标准",
+      "lot": "L2"
+    },
+    {
+      "sample": "R15-2",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 87,
+      "process": "标准",
+      "lot": "L2"
+    },
+    {
+      "sample": "R15-2",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 88,
+      "process": "标准",
+      "lot": "L2"
+    },
+    {
+      "sample": "R16-0",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 86,
+      "process": "改压",
+      "lot": "L3"
+    },
+    {
+      "sample": "R16-0",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 87,
+      "process": "改压",
+      "lot": "L3"
+    },
+    {
+      "sample": "R16-1",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 87,
+      "process": "改压",
+      "lot": "L3"
+    },
+    {
+      "sample": "R16-1",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 88,
+      "process": "改压",
+      "lot": "L3"
+    },
+    {
+      "sample": "R16-2",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 88,
+      "process": "改压",
+      "lot": "L3"
+    },
+    {
+      "sample": "R16-2",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 89,
+      "process": "改压",
+      "lot": "L3"
+    },
+    {
+      "sample": "R17-0",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 87,
+      "process": "改压",
+      "lot": "L3"
+    },
+    {
+      "sample": "R17-0",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 88,
+      "process": "改压",
+      "lot": "L3"
+    },
+    {
+      "sample": "R17-1",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 88,
+      "process": "改压",
+      "lot": "L3"
+    },
+    {
+      "sample": "R17-1",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 89,
+      "process": "改压",
+      "lot": "L3"
+    },
+    {
+      "sample": "R17-2",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 89,
+      "process": "改压",
+      "lot": "L3"
+    },
+    {
+      "sample": "R17-2",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 90,
+      "process": "改压",
+      "lot": "L3"
+    },
+    {
+      "sample": "R18-0",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 88,
+      "process": "改压",
+      "lot": "L3"
+    },
+    {
+      "sample": "R18-0",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 89,
+      "process": "改压",
+      "lot": "L3"
+    },
+    {
+      "sample": "R18-1",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 89,
+      "process": "改压",
+      "lot": "L3"
+    },
+    {
+      "sample": "R18-1",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 90,
+      "process": "改压",
+      "lot": "L3"
+    },
+    {
+      "sample": "R18-2",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 90,
+      "process": "改压",
+      "lot": "L3"
+    },
+    {
+      "sample": "R18-2",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 91,
+      "process": "改压",
+      "lot": "L3"
+    },
+    {
+      "sample": "R19-0",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 89,
+      "process": "改压",
+      "lot": "L3"
+    },
+    {
+      "sample": "R19-0",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 90,
+      "process": "改压",
+      "lot": "L3"
+    },
+    {
+      "sample": "R19-1",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 90,
+      "process": "改压",
+      "lot": "L3"
+    },
+    {
+      "sample": "R19-1",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 91,
+      "process": "改压",
+      "lot": "L3"
+    },
+    {
+      "sample": "R19-2",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 91,
+      "process": "改压",
+      "lot": "L3"
+    },
+    {
+      "sample": "R19-2",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 92,
+      "process": "改压",
+      "lot": "L3"
+    },
+    {
+      "sample": "R20-0",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 90,
+      "process": "改压",
+      "lot": "L3"
+    },
+    {
+      "sample": "R20-0",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 91,
+      "process": "改压",
+      "lot": "L3"
+    },
+    {
+      "sample": "R20-1",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 91,
+      "process": "改压",
+      "lot": "L3"
+    },
+    {
+      "sample": "R20-1",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 92,
+      "process": "改压",
+      "lot": "L3"
+    },
+    {
+      "sample": "R20-2",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 92,
+      "process": "改压",
+      "lot": "L3"
+    },
+    {
+      "sample": "R20-2",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 70,
+      "process": "改压",
+      "lot": "L3"
+    },
+    {
+      "sample": "R21-0",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 91,
+      "process": "改压",
+      "lot": "L3"
+    },
+    {
+      "sample": "R21-0",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 92,
+      "process": "改压",
+      "lot": "L3"
+    },
+    {
+      "sample": "R21-1",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 92,
+      "process": "改压",
+      "lot": "L3"
+    },
+    {
+      "sample": "R21-1",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 70,
+      "process": "改压",
+      "lot": "L3"
+    },
+    {
+      "sample": "R21-2",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 70,
+      "process": "改压",
+      "lot": "L3"
+    },
+    {
+      "sample": "R21-2",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 71,
+      "process": "改压",
+      "lot": "L3"
+    },
+    {
+      "sample": "R22-0",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 92,
+      "process": "改压",
+      "lot": "L3"
+    },
+    {
+      "sample": "R22-0",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 70,
+      "process": "改压",
+      "lot": "L3"
+    },
+    {
+      "sample": "R22-1",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 70,
+      "process": "改压",
+      "lot": "L3"
+    },
+    {
+      "sample": "R22-1",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 71,
+      "process": "改压",
+      "lot": "L3"
+    },
+    {
+      "sample": "R22-2",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 71,
+      "process": "改压",
+      "lot": "L3"
+    },
+    {
+      "sample": "R22-2",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 72,
+      "process": "改压",
+      "lot": "L3"
+    },
+    {
+      "sample": "R23-0",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 70,
+      "process": "改压",
+      "lot": "L3"
+    },
+    {
+      "sample": "R23-0",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 71,
+      "process": "改压",
+      "lot": "L3"
+    },
+    {
+      "sample": "R23-1",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 71,
+      "process": "改压",
+      "lot": "L3"
+    },
+    {
+      "sample": "R23-1",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 72,
+      "process": "改压",
+      "lot": "L3"
+    },
+    {
+      "sample": "R23-2",
+      "operation": 1,
+      "repetition": 1,
+      "contrast": 72,
+      "process": "改压",
+      "lot": "L3"
+    },
+    {
+      "sample": "R23-2",
+      "operation": 1,
+      "repetition": 2,
+      "contrast": 73,
+      "process": "改压",
+      "lot": "L3"
+    },
+    {
+      "sample": "R6-0",
+      "operation": 2,
+      "repetition": 1,
+      "contrast": 95,
+      "process": "标准",
+      "lot": "L2"
+    },
+    {
+      "sample": "R7-0",
+      "operation": 2,
+      "repetition": 1,
+      "contrast": 94,
+      "process": "改压",
+      "lot": "L1"
+    }
+  ],
+  "aging": [
+    {
+      "sample": "R0-0",
+      "due": "2026-07-18",
+      "inspected_on": "2026-07-18",
+      "result": "正常"
+    },
+    {
+      "sample": "R1-0",
+      "due": "2026-07-18",
+      "inspected_on": "2026-07-18",
+      "result": "正常"
+    },
+    {
+      "sample": "R2-0",
+      "due": "2026-07-19",
+      "inspected_on": "2026-07-19",
+      "result": "正常"
+    },
+    {
+      "sample": "R3-0",
+      "due": "2026-07-19",
+      "inspected_on": "2026-07-19",
+      "result": "正常"
+    },
+    {
+      "sample": "R4-0",
+      "due": "2026-07-20",
+      "inspected_on": null,
+      "result": "失联"
+    },
+    {
+      "sample": "R5-0",
+      "due": "2026-07-20",
+      "inspected_on": "2026-07-20",
+      "result": "正常"
+    },
+    {
+      "sample": "R6-0",
+      "due": "2026-07-21",
+      "inspected_on": "2026-07-21",
+      "result": "发虚"
+    },
+    {
+      "sample": "R7-0",
+      "due": "2026-07-21",
+      "inspected_on": "2026-07-21",
+      "result": "正常"
+    },
+    {
+      "sample": "R8-0",
+      "due": "2026-07-22",
+      "inspected_on": "2026-07-22",
+      "result": "正常"
+    },
+    {
+      "sample": "R9-0",
+      "due": "2026-07-22",
+      "inspected_on": "2026-07-22",
+      "result": "正常"
+    },
+    {
+      "sample": "R10-0",
+      "due": "2026-07-23",
+      "inspected_on": "2026-07-23",
+      "result": "正常"
+    },
+    {
+      "sample": "R11-0",
+      "due": "2026-07-23",
+      "inspected_on": "2026-07-23",
+      "result": "正常"
+    },
+    {
+      "sample": "R12-0",
+      "due": "2026-07-24",
+      "inspected_on": "2026-07-24",
+      "result": "正常"
+    },
+    {
+      "sample": "R13-0",
+      "due": "2026-07-24",
+      "inspected_on": null,
+      "result": null
+    },
+    {
+      "sample": "R14-0",
+      "due": "2026-07-25",
+      "inspected_on": null,
+      "result": null
+    },
+    {
+      "sample": "R15-0",
+      "due": "2026-07-25",
+      "inspected_on": null,
+      "result": null
+    },
+    {
+      "sample": "R16-0",
+      "due": "2026-07-26",
+      "inspected_on": null,
+      "result": null
+    },
+    {
+      "sample": "R17-0",
+      "due": "2026-07-26",
+      "inspected_on": null,
+      "result": null
+    },
+    {
+      "sample": "R18-0",
+      "due": "2026-07-27",
+      "inspected_on": null,
+      "result": null
+    },
+    {
+      "sample": "R19-0",
+      "due": "2026-07-27",
+      "inspected_on": null,
+      "result": null
+    },
+    {
+      "sample": "R20-0",
+      "due": "2026-07-28",
+      "inspected_on": null,
+      "result": null
+    },
+    {
+      "sample": "R21-0",
+      "due": "2026-07-28",
+      "inspected_on": null,
+      "result": null
+    },
+    {
+      "sample": "R22-0",
+      "due": "2026-07-29",
+      "inspected_on": null,
+      "result": null
+    },
+    {
+      "sample": "R23-0",
+      "due": "2026-07-29",
+      "inspected_on": null,
+      "result": null
+    }
+  ],
+  "permission": [
+    {
+      "id": "A1",
+      "sku": "书签甲",
+      "pattern": "密纹",
+      "process": "改压",
+      "sample": "R6-0",
+      "evidence": "共享试产",
+      "sent_to": "馆内"
+    },
+    {
+      "id": "A2",
+      "sku": "书签乙",
+      "pattern": "疏纹",
+      "process": "改压",
+      "sample": "R6-0",
+      "evidence": "共享试产",
+      "sent_to": null
+    },
+    {
+      "id": "A3",
+      "sku": "书签丙",
+      "pattern": "密纹",
+      "process": "标准",
+      "sample": "R9-0",
+      "evidence": "独立复验",
+      "sent_to": "网店"
+    }
+  ],
+  "recheck": [
+    {
+      "id": "C1",
+      "lot": "L1",
+      "discovered_on": "2026-07-26",
+      "category": "印纹发虚"
+    }
+  ],
+  "test_hours": [
+    {
+      "date": "2026-07-27",
+      "capacity": 3
+    },
+    {
+      "date": "2026-07-29",
+      "capacity": 3
+    },
+    {
+      "date": "2026-08-04",
+      "capacity": 5
+    }
+  ],
+  "assays": [
+    {
+      "id": "T1",
+      "sample": "R8-0",
+      "purpose": "批次归因",
+      "sku": null,
+      "hours": 3,
+      "consumes": true
+    },
+    {
+      "id": "T2",
+      "sample": "R8-0",
+      "purpose": "复验放行",
+      "sku": "书签甲",
+      "hours": 2,
+      "consumes": true
+    },
+    {
+      "id": "T3",
+      "sample": "R10-0",
+      "purpose": "复验放行",
+      "sku": "书签乙",
+      "hours": 2,
+      "consumes": true
+    }
+  ],
+  "committed": [
+    {
+      "assay": "T1",
+      "date": "2026-07-27",
+      "confirmed_on": "2026-07-26"
+    }
+  ]
+}
